@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Rapdate 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-23 19:55+0200\n"
+"PO-Revision-Date: 2009-12-23 20:00+0200\n"
+"Last-Translator: Asaf Chertkoff <asaf@freeallweb.org>\n"
+"Language-Team: FreeAllWeb GUILD <asaf@freeallweb.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Hebrew\n"
+"X-Poedit-Country: ISRAEL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: Rapdate.php:59
+msgid "Rapdate 1.0"
+msgstr "Rapdate 1.0"
+
+#: Rapdate.php:60
+msgid "Rapdate is a simple plugin for wordpress sites that need to edit and re-edit a lot of different posts and/or pages. It overcomes the irritating core behavior that binding you to stay inside the post or page after pressing the \"update\" button."
+msgstr "Rapdate הינו תוסף פשוט לאתרי וורדפרס שצריכים לערוך ולערוך מחדש המון רשומות או דפים. התוסף מתגבר על הבעיה המרגיזה שמחייבת אותך להשאר בתוך הרשומה או הדף אחרי שלחצת על כפתור ה\"עדכן\"."
+
+#: Rapdate.php:61
+msgid "When this plugin is on and the checkbox below is checked, after clicking the \"update\" button, it will send you directly to the list of posts or pages, accordingly."
+msgstr "כשהתוסף עובד, וכפתורי הסימון שלמטה מסומנים, לאחר לחיצה על כפתור העידכון, תשלח ישירות לרשימת הדפים או הרשומות, בהתאמה."
+
+#: Rapdate.php:65
+msgid "Rapid check out from posts?"
+msgstr "להפעיל יציאה מהירה מרשומות?"
+
+#: Rapdate.php:68
+msgid "Rapid check out from pages?"
+msgstr "להפעיל יציאה מהירה מדפים?"
+
+#: Rapdate.php:72
+msgid "save settings"
+msgstr "שמור הגדרות"
+
+#: Rapdate.php:76
+msgid "If you want to give something back:"
+msgstr "אם אתה מעוניין לתת משהו בתמורה:"
+
+#: Rapdate.php:78
+msgid "My Amazon Wishlist"
+msgstr "רשימת הבקשות שלי באמזון"
+
